@@ -1,2 +1,2 @@
-# index.html
+# Web Static
 web static
